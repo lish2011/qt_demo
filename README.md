@@ -1,2 +1,2 @@
-# qt_demo-
+# qt_demo
 C++ qt demo 
